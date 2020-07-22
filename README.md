@@ -11,6 +11,7 @@ This project uses the following modules:
 
 * express (4.17.1)
 * pg (8.3.0)
+* cors (2.8.5)
 
 All those dependencies as applied on `package.json` file, so no further action is needed.
 
